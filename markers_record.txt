@@ -1,0 +1,47 @@
+NODE_2 sacsin (LOC107010837), mRNA
+NODE_2_length_14787_cov_23.112995_g1_i0	932	 f	T	G
+NODE_2_length_14787_cov_23.112995_g1_i0	3397	 t	T	C
+NODE_2_length_14787_cov_23.112995_g1_i0	6584	 t	C	A
+NODE_2_length_14787_cov_23.112995_g1_i0	7167	 f	G	A
+NODE_2_length_14787_cov_23.112995_g1_i0	9995	 t	A	G
+
+NODE_49 protein CHROMATIN REMODELING 4 (LOC101248171), mRNA
+NODE_49_length_8003_cov_18.095352_g39_i0	3561	 t	C	T
+NODE_49_length_8003_cov_18.095352_g39_i0	3699	 t	G	A
+
+NODE_133_putative 1-phosphatidylinositol-3-phosphate 5-kinase FAB1C (LOC107020290), mRNA
+NODE_133_length_6741_cov_36.930875_g101_i0	5578	 t	A	G
+
+NODE_2275 probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 7 (LOC107025941), mRNA
+NODE_2275_length_3537_cov_61.769891_g1527_i0	586	 f	T	G
+
+NODE_2334_probable LRR receptor-like serine/threonine-protein kinase IRK (LOC107023573), mRNA lycopersicum/pennellii
+NODE_2334_length_3513_cov_8.748991_g1564_i0	842	t/f	A	G
+
+NODE_2412  receptor protein-tyrosine kinase CEPR2-like (LOC101253498), mRNA  lycopersicum/pennellii & stenotomum
+NODE_2412_length_3479_cov_42.979627_g1614_i0	2908	 f/t	C	T
+NODE_2412_length_3479_cov_42.979627_g1614_i0	3250	 t/f	G	A
+
+NODE_2543_length_3431_serine/threonine-protein kinase KIPK1 (LOC107002616), transcript variant X1, mRNA pennellii/lycopersicum
+NODE_2543_length_3431_cov_13.641677_g1698_i0	261	t/f	C	T
+
+NODE_5612_transcription factor bHLH130-like (LOC101246034), mRNA
+NODE_5612_length_2679_cov_30.273900_g3614_i0	1090	 t	A	T
+NODE_5612_length_2679_cov_30.273900_g3614_i0	1352	 t	A	T
+
+NODE_9390_DNA-(apurinic or apyrimidinic site) lyase, chloroplastic (LOC101255875), transcript variant X1, mRNA tuberosum&lycopersicum/pennellii
+NODE_9390_length_2172_cov_22.113199_g5865_i0	580	f/t	A	G
+NODE_9390_length_2172_cov_22.113199_g5865_i0	910	t	G	A
+NODE_9390_length_2172_cov_22.113199_g5865_i0	1296	f/t	C	A
+
+NODE_13683_aspartyl protease family protein 2 (LOC101254425), mRNA
+NODE_13683_length_1783_cov_52.087356_g8366_i0	1643	 t	A	T
+
+NODE_23257_zinc transporter 3-like (LOC125822642), mRNA pennellii/lycopersicum/verrucosum
+NODE_23257_length_1195_cov_31.824653_g13757_i0	879	 f/f/t	A	T
+NODE_23257_length_1195_cov_31.824653_g13757_i0	1005	f/t/f	T	G
+
+NODE_30280_ORM1-like protein 3 (LOC107026923), mRNA
+NODE_30280_length_857_cov_41.076167_g17951_i0	682	f	G	A
+
+
