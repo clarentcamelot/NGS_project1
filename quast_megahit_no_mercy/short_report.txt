@@ -1,0 +1,8 @@
+SHORT SUMMARY REPORT 
+
+METRICS/TRANSCRIPTS                                    final.contigs            
+
+ == BASIC TRANSCRIPTS METRICS == 
+Transcripts                                            44218                    
+Transcripts > 500 bp                                   26091                    
+Transcripts > 1000 bp                                  14973

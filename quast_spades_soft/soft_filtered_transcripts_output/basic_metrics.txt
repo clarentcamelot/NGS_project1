@@ -1,0 +1,12 @@
+METRICS/TRANSCRIPTS                                    soft_filtered_transcripts  
+ == BASIC TRANSCRIPTS METRICS (calculated without reference genome and gene database) == 
+Transcripts                                            109737                     
+
+Transcripts > 500 bp                                   39802                      
+Transcripts > 1000 bp                                  27156                      
+
+Average length of assembled transcripts                732.042                    
+Longest transcript                                     15839                      
+Total length                                           80332125                   
+
+Transcript N50                                         1704                       

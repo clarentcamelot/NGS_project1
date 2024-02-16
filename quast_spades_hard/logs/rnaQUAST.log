@@ -1,0 +1,100 @@
+/data/home/students/pst48/.conda/envs/rnaquast/share/rnaquast-2.0.1-0/rnaQUAST.py -c output_spades_merge/hard_filtered_transcripts.fasta -o quast_spades_hard
+
+rnaQUAST version: 2.0.1
+
+System information:
+  OS: Linux-5.8.16-100.fc31.x86_64-x86_64-with-fedora-31-Thirty_One (linux_64)
+  Python version: 3.6.13
+  CPUs number: 8
+
+External tools:
+  matplotlib version: 3.3.4
+  joblib version: 1.0.1
+  gffutils version: 0.12
+  blastn version: 2.5.0+
+  makeblastdb version: 2.5.0+
+  gmap version: 2021-08-25
+
+Started: 2024-02-13 19:00:10
+
+Logging to /data/home/students/pst48/marker_development2/quast_spades_hard/logs/rnaQUAST.log
+
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+Using non strand specific transcripts...
+
+  2024-02-13 19:00:10
+  Getting transcripts from /data/home/students/pst48/marker_development2/output_spades_merge/hard_filtered_transcripts.fasta...
+  Done.
+
+2024-02-13 19:00:11
+Transcripts:
+  /data/home/students/pst48/marker_development2/output_spades_merge/hard_filtered_transcripts.fasta -> hard_filtered_transcripts
+
+
+Processing transcripts from /data/home/students/pst48/marker_development2/output_spades_merge/hard_filtered_transcripts.fasta:
+
+  2024-02-13 19:00:11
+  Getting BASIC TRANSCRIPTS metrics...
+  Done.
+  Getting SENSITIVITY metrics...
+
+2024-02-13 19:00:12
+  Running GeneMarkS-T (Gene Prediction in Transcripts)...
+
+ERROR! GeneMarkS-T failed for hard_filtered_transcripts!
+    logs can be found in /data/home/students/pst48/marker_development2/quast_spades_hard/logs/hard_filtered_transcripts.GeneMarkS_T.out.log and /data/home/students/pst48/marker_development2/quast_spades_hard/logs/hard_filtered_transcripts.GeneMarkS_T.err.log.
+  Done.
+
+Getting SEPARATED report for hard_filtered_transcripts...
+
+  2024-02-13 19:00:12
+  Getting TXT report...
+    Getting BASIC TRANSCRIPTS METRICS report...
+      saved to /data/home/students/pst48/marker_development2/quast_spades_hard/hard_filtered_transcripts_output/basic_metrics.txt
+    Getting ALIGNMENT METRICS report...
+      saved to /data/home/students/pst48/marker_development2/quast_spades_hard/hard_filtered_transcripts_output/alignment_metrics.txt
+    Getting ALIGNMENT METRICS FOR MISASSEMBLED (CHIMERIC) TRANSCRIPTS report...
+      saved to /data/home/students/pst48/marker_development2/quast_spades_hard/hard_filtered_transcripts_output/misassemblies.txt
+    Getting ASSEMBLY COMPLETENESS (SENSITIVITY) report...
+      saved to /data/home/students/pst48/marker_development2/quast_spades_hard/hard_filtered_transcripts_output/sensitivity.txt
+    Getting ASSEMBLY SPECIFICITY report...
+      saved to /data/home/students/pst48/marker_development2/quast_spades_hard/hard_filtered_transcripts_output/specificity.txt
+  Done.
+
+  2024-02-13 19:00:12
+  Getting DISTRIBUTION report...
+    Drawing cumulative transcript / isoform length plot...
+      saved to /data/home/students/pst48/marker_development2/quast_spades_hard/hard_filtered_transcripts_output/transcript_length.png
+    Drawing Nx plot...
+      saved to /data/home/students/pst48/marker_development2/quast_spades_hard/hard_filtered_transcripts_output/Nx.png
+  Done.
+
+  2024-02-13 19:00:14
+  Getting OTHER reports...
+  Done.
+
+2024-02-13 19:00:14
+Getting SHORT SUMMARY report...
+  saved to
+    /data/home/students/pst48/marker_development2/quast_spades_hard/short_report.txt
+    /data/home/students/pst48/marker_development2/quast_spades_hard/short_report.tex
+    /data/home/students/pst48/marker_development2/quast_spades_hard/short_report.pdf
+
+THE QUALITY OF TRANSCRIPTOME ASSEMBLY DONE. RESULTS: /data/home/students/pst48/marker_development2/quast_spades_hard
+
+Separated assemblies reports are saved to
+  /data/home/students/pst48/marker_development2/quast_spades_hard/hard_filtered_transcripts_output
+  PDF version (tables and plots) saved to /data/home/students/pst48/marker_development2/quast_spades_hard/short_report.pdf
+  TXT version (tables and plots) saved to /data/home/students/pst48/marker_development2/quast_spades_hard/short_report.txt
+
+Log saved to /data/home/students/pst48/marker_development2/quast_spades_hard/logs/rnaQUAST.log
+
+Finished: 2024-02-13 19:00:14
+Elapsed time: 0:00:04.344363
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 1
+
+non-fatal ERRORs:
+  non-fatal ERROR: GeneMarkS-T failed for hard_filtered_transcripts!
+
+Thank you for using rnaQUAST!
+

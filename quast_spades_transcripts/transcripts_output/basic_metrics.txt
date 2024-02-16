@@ -1,0 +1,12 @@
+METRICS/TRANSCRIPTS                                    transcripts              
+ == BASIC TRANSCRIPTS METRICS (calculated without reference genome and gene database) == 
+Transcripts                                            95794                    
+
+Transcripts > 500 bp                                   39802                    
+Transcripts > 1000 bp                                  27156                    
+
+Average length of assembled transcripts                820.555                  
+Longest transcript                                     15839                    
+Total length                                           78604258                 
+
+Transcript N50                                         1739                     

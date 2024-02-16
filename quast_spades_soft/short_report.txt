@@ -1,0 +1,8 @@
+SHORT SUMMARY REPORT 
+
+METRICS/TRANSCRIPTS                                    soft_filtered_transcripts  
+
+ == BASIC TRANSCRIPTS METRICS == 
+Transcripts                                            109737                     
+Transcripts > 500 bp                                   39802                      
+Transcripts > 1000 bp                                  27156

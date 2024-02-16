@@ -1,0 +1,8 @@
+SHORT SUMMARY REPORT 
+
+METRICS/TRANSCRIPTS                                    transcripts              
+
+ == BASIC TRANSCRIPTS METRICS == 
+Transcripts                                            95794                    
+Transcripts > 500 bp                                   39802                    
+Transcripts > 1000 bp                                  27156
